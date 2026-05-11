@@ -1,7 +1,7 @@
  # Open Text Collections #6
 ## Modole texts
 
-This collection features 10 texts from the Modole language, spoken in North Halamahera, Indonesia. 
+This collection features 10 texts from the Modole language, spoken in North Halmahera, Indonesia. 
 
 The texts were compiled by the Dutch missionary  G.J. Ellen in the early 20th century and re-edited and translated into English by Maria Zielenbach.
 
